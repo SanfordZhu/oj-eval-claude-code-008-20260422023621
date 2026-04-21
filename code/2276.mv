@@ -1,0 +1,53 @@
+# Hello World program in mov language
+# Print "Hello World!"
+
+# H
+A<72
+O<A
+
+# e
+A<101
+O<A
+
+# l
+A<108
+O<A
+
+# l
+A<108
+O<A
+
+# o
+A<111
+O<A
+
+# (space)
+A<32
+O<A
+
+# W
+A<87
+O<A
+
+# o
+A<111
+O<A
+
+# r
+A<114
+O<A
+
+# l
+A<108
+O<A
+
+# d
+A<100
+O<A
+
+# !
+A<33
+O<A
+
+# Stop
+Z<1
